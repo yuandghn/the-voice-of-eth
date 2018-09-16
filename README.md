@@ -6,3 +6,6 @@ Listening to the voice of Ethereum
 这个idea并没有什么实际的意义，也许无聊的时候可以听一听~ :bowtie:
 
 Javascript Piano的代码来自于https://mrcoles.com/piano/
+
+效果图：
+![](https://github.com/yuandghn/the-voice-of-eth/blob/master/demo.png)
