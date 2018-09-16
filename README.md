@@ -5,6 +5,8 @@ Listening to the voice of Ethereum
 
 这个idea并没有什么实际的意义，也许无聊的时候可以听一听~ :bowtie:
 
+一开始是想做个填字游戏或俄罗斯方块的，不过短时间内想不到好的数值策略，于是就选了个最简单的音符方案，
+
 Javascript Piano的代码来自于https://mrcoles.com/piano/
 
 效果图：
